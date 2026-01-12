@@ -45,10 +45,8 @@ Power BI Dashboard - The Power BI dashboard provides interactive insights includ
 
 
 Key Insights
-- Properties closer to the CBD (0–10 km) command significantly higher median prices
-- Median prices show variation over time when adjusted for economic factors
-- High-income suburbs are not always more affordable, indicating strong price pressure
-- Certain suburbs exhibit extreme affordability ratios, highlighting potential overvaluation
-- Property type plays a major role in price differences across the market
-- Clear price concentration in specific regions
-- Identifiable trends that highlight premium vs affordable areas
+- Properties closer to the CBD (0–10 km) command significantly higher median prices compared to outer suburbs.
+- Median property prices show a general downward trend over time when adjusted for inflation.
+- High-income suburbs are not always more affordable, indicating strong price pressure in premium areas.
+- Certain suburbs exhibit extreme affordability ratios, highlighting potential investment or overvaluation zones.
+- Property type has a strong influence on pricing, with blocks of units and development sites commanding higher median prices.
