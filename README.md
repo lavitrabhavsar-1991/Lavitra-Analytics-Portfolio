@@ -18,3 +18,7 @@ Each project includes:
 - SQL / Python scripts
 - Visualizations and dashboards
 - Key insights
+
+## Projects
+- Sydney Housing Market Analysis
+- (More projects coming soon)
