@@ -1,6 +1,3 @@
-# Lavitra-Analytics-Portfolio
-Data analytics portfolio featuring projects built with SQL, Python, Power BI, Tableau, and data visualization tools.
-
 # Data Analytics Portfolio
 This repository contains my end-to-end data analytics projects using SQL, Python,
 Power BI, and Tableau. The projects focus on real-world datasets and cover the
