@@ -24,7 +24,7 @@ Dataset
 - Property type and dwelling attributes
 - Income and affordability indicators
 
-📂 Dataset available in the data/ folder.
+📂 Dataset Kaggle link - https://www.kaggle.com/datasets/alexlau203/sydney-house-prices
 
 
 Data Cleaning & SQL Analysis
@@ -43,14 +43,12 @@ Power BI Dashboard - The Power BI dashboard provides interactive insights includ
 - Median price by property type and dwelling size
 - Price per square meter comparisons
 
-📊 Power BI file available in the powerbi/ folder.
-🖼️ Dashboard screenshots available in the visuals/ folder.
-
 
 Key Insights
 - Properties closer to the CBD (0–10 km) command significantly higher median prices
 - Median prices show variation over time when adjusted for economic factors
 - High-income suburbs are not always more affordable, indicating strong price pressure
 - Certain suburbs exhibit extreme affordability ratios, highlighting potential overvaluation
-
-Property type plays a major role in price differences across the market
+- Property type plays a major role in price differences across the market
+- Clear price concentration in specific regions
+- Identifiable trends that highlight premium vs affordable areas
