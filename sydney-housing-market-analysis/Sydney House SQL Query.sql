@@ -1,7 +1,5 @@
 show tables;
 select * from domain_properties;
-select sum(price) as Total_Revenue from domain_properties;
-SELECT COUNT(*) FROM domain_properties;
 select * from clean_sydney_properties;
 select * from sydney_properties; 
 
