@@ -50,3 +50,10 @@ Key Insights
 - High-income suburbs are not always more affordable, indicating strong price pressure in premium areas.
 - Certain suburbs exhibit extreme affordability ratios, highlighting potential investment or overvaluation zones.
 - Property type has a strong influence on pricing, with blocks of units and development sites commanding higher median prices.
+
+
+This project demonstrates my ability to:
+- Work with raw real estate data
+- Write analytical SQL queries
+- Translate data into meaningful visual insights
+- Build dashboards for decision-making rather than just reporting
